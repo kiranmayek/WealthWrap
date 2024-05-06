@@ -54,21 +54,22 @@ USER END APPLICATION OVERVIEW:
 <img width="300" alt="Screenshot 1" src="https://github.com/kiranmayek/WealthWrap/assets/99260206/176a4404-a13a-4747-a18a-b07e8bb7713c">
 <img width="300" alt="Screenshot 1" src="https://github.com/kiranmayek/WealthWrap/assets/99260206/5c668aac-4368-4039-9436-72f5c6a40def">
 
-ML Workflow:
+**ML Workflow:**
 <img width="600" alt="Screenshot 1" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/0f3c6fc3-0b0f-4be1-a4e5-ca176dc47ac3">
 1. **User Assessment:** Users complete an SRIT test, providing insights into risk tolerance and financial behavior.
 2. **Data Collection:** Test results and user data are gathered as inputs for the ML model.
 3. **Hybrid Recommendation System (HRS):** Combining collaborative and content-based filtering, HRS generates personalized recommendations based on user behavior and preferences.
 <img width="700" alt="Screenshot 1" src="https://github.com/kiranmayek/WealthWrap/assets/99260206/073af274-b45c-43f1-ad6b-c8e1e43658d3">
-5. **Fine-Tuned LLMs:** Further refining recommendations using Fine-Tuned Language Models, ensuring accuracy and personalization.
-6. **Feedback Loop:** Continuous improvement through user feedback, enhancing recommendation effectiveness over time.
 
-Blockchain Workflow :
+4. **Fine-Tuned LLMs:** Further refining recommendations using Fine-Tuned Language Models, ensuring accuracy and personalization.
+5. **Feedback Loop:** Continuous improvement through user feedback, enhancing recommendation effectiveness over time.
 
-**Overview**
+**Blockchain Workflow:**
+
+**Overview:**
 This project focuses on the deployment of a Polygon Edge Chain on Amazon Web Services (AWS). The Polygon Edge Chain provides high-performance, low-latency infrastructure for blockchain applications. By successfully running a Polygon Edge Chain, this project aims to facilitate the development of efficient and scalable decentralized applications
 
-**Consortium blockchain architecture**
+**Consortium blockchain architecture:**
 Node
 Each node stores a copy of the blockchain and participates in the consensus process to validate transactions and add new blocks to the chain. There are two nodes running on the polygon blockchain
 
