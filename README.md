@@ -44,3 +44,13 @@ Data Security:
 
 WORKFLOW:![AMERICAN_EXPRESS_MAKEATHON_HEHE_GIRLS_SUBMISSION](https://github.com/kiranmayek/WealthWrap/assets/99260206/e3434d13-68c8-4465-98ae-823e2d2d2431)
 
+USER END APPLICATION OVERVIEW:![Create account](https://github.com/kiranmayek/WealthWrap/assets/99260206/42383cf2-bf76-45e1-a85d-5553197b29f3)![Sign In](https://github.com/kiranmayek/WealthWrap/assets/99260206/4e54dcb4-5bfa-4e2f-a8b7-a81a949934fe)
+![Personality assessment](https://github.com/kiranmayek/WealthWrap/assets/99260206/daa67ae1-870b-40ff-a916-600ace600f07)
+![Learning Modules](https://github.com/kiranmayek/WealthWrap/assets/99260206/cd9c4d48-1440-4541-a552-f064bfe98a42)![blogs](https://github.com/kiranmayek/WealthWrap/assets/99260206/13d7b3be-5f74-4823-a6d7-be2e5feae2ef)
+![advisor](https://github.com/kiranmayek/WealthWrap/assets/99260206/176a4404-a13a-4747-a18a-b07e8bb7713c)![leaderboard](https://github.com/kiranmayek/WealthWrap/assets/99260206/5c668aac-4368-4039-9436-72f5c6a40def)
+
+
+
+
+
+
